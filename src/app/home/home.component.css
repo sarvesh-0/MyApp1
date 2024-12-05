@@ -1,0 +1,55 @@
+.home-container {
+    font-family: Arial, sans-serif;
+    color: #333;
+    background-color: #f4f4f4;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+  }
+  
+  .header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+  }
+  
+  .header p {
+    margin: 0.5rem 0;
+    font-size: 1.2rem;
+  }
+  .profile {
+    text-align: center;
+    padding: 2rem;
+  }
+  
+  .profile-img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 1rem auto;
+  }
+  
+  .cta-buttons {
+    margin-top: 1.5rem;
+  }
+  
+  .btn {
+    display: inline-block;
+    padding: 0.8rem 1.5rem;
+    margin: 0.5rem;
+    text-decoration: none;
+    background-color: #007bff;
+    color: white;
+    border-radius: 5px;
+    font-size: 1rem;
+  }
+  
+  .btn:hover {
+    background-color: #0056b3;
+  }
+  
